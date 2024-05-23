@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I hold a PhD in Hydrology with a background in Civil Engineering. I am passionate about big data, data analysis, and applying machine learning and deep learning to solve complex problems in flood protection and climate change mitigation.
+
+
 <!--
 **omarseleem92/omarseleem92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
